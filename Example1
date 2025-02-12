@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Final Project</title>
+</head>
+<body>
+  <main>
+    <h1>This is My Final Project</h1>
+
+    <section>
+      <h2>It will contain</h2>
+      <ul>
+        <li>Headings</li>
+        <li>Images</li>
+        <li>List</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Images</h2>
+      <img src="https://cdn2.steamgriddb.com/icon/e1bd06c3f8089e7552aa0552cb387c92/32/256x256.png" alt="CS2">
+      <img src="https://images.seeklogo.com/logo-png/37/1/valorant-logo-png_seeklogo-379976.png" alt="Valorant">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/240px-Google_Chrome_icon_%28February_2022%29.svg.png" alt="Chrome">
+    </section>
+    <section>
+      <section>
+        <h2>External Link</h2>
+        <a href="https://vi.wikipedia.org/wiki/Trang_Ch%C3%ADnh" target="_blank">Wikipedia</a>
+      </section>
+    </section>
+  </main>
+</body>
+</html>
